@@ -1,0 +1,81 @@
+.profile-p {
+    /* background-color: aliceblue; */
+    height: 100vh;
+    /* margin-top: .5rem; */
+    width: 100%;
+  }
+  
+  .profile {
+    /* background-color: antiquewhite; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; /* Center the content horizontally */
+  }
+  
+  .header-img {
+    /* background-color: aqua; */
+    width: 100%;
+    height: 15rem;
+    
+
+  }
+  .header-img img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .profile-img {
+    width: 6rem;
+    height: 6rem;
+    border-radius: 50%; /* Make it a circle */
+    display: flex;
+    
+    justify-content: center;
+    overflow: hidden; /*Ensure the image stays within the circle */
+    margin-top: -3rem; /*Adjust to center the circle vertically */
+  }
+  
+.profile-pic img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain; /* Maintain aspect ratio and cover the entire circle */
+  }
+  
+.name {
+    /* text-align: center; */
+    /* margin-top: .5rem; */
+  }
+  
+  .user-prp-icons {
+    width: 100%;
+    display: flex;
+    margin-top: 1rem;
+    
+    font-size: 1.4rem;
+    justify-content: space-evenly;
+    /* border-bottom: 1px solid black; */
+    /* align-items: center; */
+    text-align: center; 
+   /* Center the text horizontally */
+  }
+  
+  .profile-c {
+    display: flex;
+    align-items: center;
+    
+  }
+  
+  .prp-p-icons {
+    color: rgb(95, 160, 109);
+    margin-right: 0.5rem; /* Adjust as needed */
+  }
+  
+  .p-count {
+    margin-left: 0.5rem; /* Adjust as needed */
+  }
+
+.user-info{
+ width: 100%;
+}

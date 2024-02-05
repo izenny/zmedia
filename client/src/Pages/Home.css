@@ -1,0 +1,16 @@
+.home{
+    display: flex;
+    margin: 1rem;
+}
+.left-h{
+   flex: 1;
+   margin: 2rem;
+   /* width: 50%; */
+   /* background-color: aquamarine */
+   overflow-y: auto;
+}
+.right-h{
+    /* flex: 1; */
+    
+    /* background-color: aqua; */
+}

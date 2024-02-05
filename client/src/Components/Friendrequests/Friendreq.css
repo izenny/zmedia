@@ -1,0 +1,15 @@
+.friend-req-p{
+    width: 100%;
+}
+.friend-req{
+    display: flex;
+    background-color: aquamarine;
+    flex-direction: column;
+    height: 5rem;
+    justify-content: center;
+    align-items: center;
+    
+}
+.div-b{
+    
+}

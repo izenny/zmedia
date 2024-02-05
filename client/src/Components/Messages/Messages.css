@@ -1,0 +1,58 @@
+.messages{
+    display: flex;
+    flex-direction: column;
+}
+.message{
+    display: flex;
+    /* background-color: aqua; */
+    width: 16rem;
+    height: 5rem;
+    margin: 1rem;
+    margin-bottom: 0;
+    justify-content: space-around;
+    box-shadow: 1px 0px 10px rgb(95, 160, 109);
+    
+}
+.prp{
+    width: 5rem;
+    border-radius: 10rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.profile-pic{
+    width: 100%;
+    
+}
+.name-message{
+    display: flex;
+    flex-direction: column;
+    
+    /* align-items: center; */
+    
+
+    width: 100%;
+}
+.nam-div{
+  /* background-color: rgb(78, 145, 103); */
+  width: 100%;
+  height: 2.5rem;
+  
+  
+  
+}
+.text-message{
+    /* background-color: blue; */
+    width: 100%;
+    height: 2.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size:.8em ;
+    
+    
+}
+.fend-name{
+    
+}
